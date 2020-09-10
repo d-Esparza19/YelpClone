@@ -1,0 +1,15 @@
+{
+  "name": "yelpclone",
+  "version": "1.0.0",
+  "description": "YelpCamp - Yelp Clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Esparza, Colt Steele",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
